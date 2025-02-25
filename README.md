@@ -34,7 +34,7 @@ npm run dev
 
 ### Demo
 
-![](/resources/Demo.mov)
+![](https://github.com/SamudraUduwaka/layout-builder-v7-demo/blob/6810e88622af11b1123e05954224534eedd7445c/resources/Demo.mov)
 
 ## React + TypeScript + Vite
 

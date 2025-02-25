@@ -34,7 +34,7 @@ npm run dev
 
 ### Demo
 
-<img src="/resources/Demo.mov"/>
+![](/resources/Demo.mov)
 
 ## React + TypeScript + Vite
 

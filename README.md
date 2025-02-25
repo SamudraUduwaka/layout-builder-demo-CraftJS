@@ -35,7 +35,7 @@ npm run dev
 ### Demo
 
 ![](https://github.com/SamudraUduwaka/layout-builder-v7-demo/blob/6810e88622af11b1123e05954224534eedd7445c/resources/Demo.mov)
-<video controls>
+<video width="320" height="240" controls>
   <source src="/resources/Demo.mov" type="video/mov">
 </video>
 

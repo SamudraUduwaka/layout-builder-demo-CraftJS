@@ -2,6 +2,36 @@
 
 <img src="/resources/UI.png"/>
 
+## How to run
+
+### Create a vite project
+
+```bash
+npm create vite@latest layout-builder-v7-demo --template react-ts    
+
+cd layout-builder-v7-demo   
+```
+
+### Install Dependencies
+```bash
+npm install react@18 react-dom@18 @types/react@18 @types/react-dom@18
+
+npm install 
+
+npm install @craftjs/core @material-ui/core @mui/material react-contenteditable material-ui-color-picker 
+```
+
+If the above didn't work, use with `--legacy-peer-deps` tag
+```bash
+npm install @material-ui/core --legacy-peer-deps 
+```
+
+### Run the project
+```bash
+npm run dev
+```
+
+
 ### React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
